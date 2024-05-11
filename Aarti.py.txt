@@ -14,4 +14,13 @@ Hello Aarti
     
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
-4)
+4) Common Steps to check the changes
+	git status
+	git diff //to check your own modifications in the file
+	git fetch
+	git pull
+   Steps to add a file
+	git add
+	git commit
+	git push
+	
